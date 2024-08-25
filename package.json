@@ -1,0 +1,22 @@
+{
+  "name": "fintarget",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "fs": "^0.0.1-security",
+    "pm2": "^5.4.2",
+    "rate-limiter-flexible": "^5.0.3",
+    "redis": "^4.7.0",
+    "util": "^0.12.5",
+    "winston": "^3.14.2"
+  }
+}
